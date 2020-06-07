@@ -1,6 +1,7 @@
-# reading-notes code 201
+# Reading notes code 201
 
-Here you can find all my 201 reading notes
+*Here you can find all my 201 reading notes*
+
 
 ## Table of daily reading assigments
 
