@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Our first webpage </title>
+    <style>
+        body {
+            /* background-color: rgb(243, 182, 213); */
+            background-image: url("https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/News/051717_testingdrugs_THUMB_LARGE.jpg?w=1155");
+        }
+
+        .firstList {
+            color: crimson;
+        }
+
+
+        ol {
+            border: 4px solid black;
+            padding-top: 4px;
+            padding-bottom: 4px;
+            color: rgb(43, 9, 28);
+        }
+
+        h1 {
+            background-color: indigo;
+            color: lawngreen;
+            text-align: center;
+        }
+
+        p {
+            background-color: mediumspringgreen;
+           text-align: center;
+            
+        }
+
+        
+    </style>
+</head>
+
+<body>
+    <header>
+        <h2> The Modern Pharmcy </h2>
+        <nav id="nav1">
+            <ul>
+                <li class="firstList">Home Page</li>
+                <li style="color:rgb(65, 8, 64)">Contact us</li>
+                <li class="firstList">About</li>
+            </ul>
+        </nav>
+
+    </header>
+    <main>
+        <h1>Class 1 Lab </h1>
+        <h2>Pharmaceutical products </h2>
+
+        <ol>
+            <h2>
+                <li> Perscribed drugs </li>
+                <li> OTC drugs </li>
+                <li> Supplements </li>
+            </h2>
+        </ol>
+        
+        <p style= " color: rgb(42, 17, 134);">Do you want to dispense a prescription?</p>
+        <p style="background-color: olive;">Do you want an OTC drug?</p>
+        <p style= " color: rgb(167, 11, 11);">Do you need a consultation?</p>
+        
+    </main>
+
+    <footer>
+
+    </footer>
+    <script>
+
+        var userName = prompt('What is your name?');
+        var userAge = prompt('How old are you?(in years)');
+        var ProductType = prompt('What Type of Products you need from  ?', 'supplements');
+        var userplace = prompt('Where do you live? ');
+        console.log('The user entered the name ', userName);
+        console.log('The user entered the Age ', userAge);
+        console.log('The user entered the Type of Product ', ProductType);
+        console.log('The user entered the place ', userplace);
+        alert('Hello ' + userName + userAge + 'years old' + ' You need more information about ' + ProductType);
+
+    </script>
+
+</body>
+
+</html>
