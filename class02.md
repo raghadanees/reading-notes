@@ -1,16 +1,18 @@
 
-<p>
 
 ## Text
 
 #### Headings and paragraphs
-- HTML has six "levels" of headings ` <h1> <h2> <h3>` ...
-- Paragraph: To create a paragraph, surround the words that make up the paragraph with an opening <p> tag and closing </p> tag.
+
+*HTML has six "levels" of headings <h1> <h2> <h3> ...
+*Paragraph: To create a paragraph, surround the words that make up the paragraph with an opening <p> tag and closing </p> tag.
+
 
 #### Bold, italic, emphasis
-- By enclosing words in the tags ` <i> and </i> ` we can make characters appear italic.
-- By enclosing words in the tags ` <b> and </b> ` we can make characters appear bold.
-- Line Breaks & Horizontal Rules: if you wanted to add a line break inside the middle of a paragraph you can use the `line break tag <br />`.
+By enclosing words in the tags  <i> and </i>  we can make characters appear italic.
+ By enclosing words in the tags ` <b> and </b> ` we can make characters appear bold.
+ Line Breaks & Horizontal Rules: if you wanted to add a line break inside the middle of a paragraph you can use the `line break tag <br />`.
+
 #### Structural and semantic markup
 Quotations: The `<q>` element is used for shorter quotes that sit within a paragraph.
 The `<s>` element indicates something that is no longer accurate or relevant (but that should not be deleted).
