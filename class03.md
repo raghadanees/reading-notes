@@ -9,50 +9,46 @@ HTML provides us with three different types:
 
 
 ### Boxes
-* Controlling size of boxes
-`width, height`
-for example : 
-html
-<div>
-<p>The Moog company pioneered the commercial manufacture of modular voltage-controlled analog synthesizer systems in the early 1950s.</p>
-</div>
-css
-div.box {
-height: 300px;
-width: 300px;
-background-color: #bbbbaa;}
-p {
-height: 75%;
-width: 75%;
-background-color: #0088dd;}
 
-`hidden`
+* Controlling size of boxes
+- `width, height`
+
+- `hidden`
+
 This property simply hides any extra content that does not fit in the box.
-`scroll`
+
+- `scroll`
 This property adds a scrollbar to the box so that users can scroll to see the missing content.
 
 * Box model for borders, margin and padding
 
-Border
+#### Border
+
 Every box has a border (even if it is not visible or is specified to be 0 pixels wide). The border separates the edge of one box from another.
 
-Margin
+#### Margin
+
 Margins sit outside the edge of the border. You can set the width of a margin to create a gap between the borders of two adjacent boxes.
 
-Padding
+#### Padding
+
 Padding is the space between the border of a box and any content contained within it.
 Adding padding can increase the readability of its contents.
 
 Centering Content
+
 body {
 text-align: center;}
  It is possible to hide elements using the display and visibility properties.
 
- JS
+ ## JS
 
- ### If statement
+ ### If statement 
+
  if ... else statements allow you to run one set of code if a condition is true, and another if it is false.
+
  #### switch statement
+ 
  It starts with a variable called the switch value. Each case indicates a possible
 value for this variable and the code that should run if the variable matches that value.
 
@@ -67,6 +63,7 @@ nul  >>> Empty value
 undefined >>> Variable has been declared but not yet assigned a value
 
 ### LOOPS
+
 - FOR 
 The loop starts with the for keyword, then contains the condition inside the parentheses.As long as the counter is less than the total number of items in the array, the contents of the curly braces will continue to run. Each time the loop runs, the round number is increased by 1.
 
