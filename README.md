@@ -9,7 +9,7 @@ Read#  |  Link
 ---------|--------
 Read 1   | [Link 1](https://raghadanees.github.io/reading-notes/class001)
 Read 2   | [Link 2](https://raghadanees.github.io/reading-notes/class02)
-Read 3   | [Link 3]()
+Read 3   | [Link 3](https://raghadanees.github.io/reading-notes/class03)
 Read 4   | [Link 4]()
 Read 5   | [Link 5]()
 Read 6   | [Link 6]()
