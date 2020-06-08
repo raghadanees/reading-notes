@@ -11,9 +11,9 @@ HTML provides us with three different types:
 ### Boxes
 
 * Controlling size of boxes
-- `width, height`
+- width, height
 
-- `hidden`
+- hidden
 
 This property simply hides any extra content that does not fit in the box.
 
