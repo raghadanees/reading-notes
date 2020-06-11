@@ -24,7 +24,7 @@ This specifies the height of the image in pixels.
 #### width
 This specifies the width of the image in pixels.
 
-![Image](C:\Users\Student\Desktop\pic 2 imge.png)
+
 
 ![Image](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2016/08/inserting-the-code-into-html-php-file-1024x488.png)
 
@@ -46,4 +46,11 @@ There are 147 predefined color names that are recognized by browsers.
 For example: DarkCyan
 
 
+## Text
+Typeface Terminology
+- Serif fonts
+- Sans-serif fonts
+- monospace
+
+![Image](https://ingenexdigital.com/wp-content/uploads/ingenex-blog-classifications-1024x703.jpg)
 
