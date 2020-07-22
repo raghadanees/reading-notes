@@ -5,7 +5,7 @@ Read#  |  Link
 Read 1   | [Link 1](https://raghadanees.github.io/reading-notes/class001)
 Read 2   | [Link 2](https://raghadanees.github.io/reading-notes/301class2)
 Read 3   | [Link 3](https://raghadanees.github.io/reading-notes/301class3)
-Read 4   | [Link 4](https://raghadanees.github.io/reading-notes/class04)
+Read 4   | [Link 4](https://raghadanees.github.io/reading-notes/301class4)
 Read 5   | [Link 5](https://raghadanees.github.io/reading-notes/class05)
 Read 6   | [Link 6](https://raghadanees.github.io/reading-notes/class06)
 Read 7   | [Link 7](https://raghadanees.github.io/reading-notes/class07)
