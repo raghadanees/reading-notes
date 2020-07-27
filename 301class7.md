@@ -12,3 +12,6 @@
  - there's this concept that people are calling “Web Services” or "APIs". It means a lot of different things to a lot of different people but the basic concept is that machines could use the web just like people do.
 
  ![Image](https://restlet.talend.com/web-api-style/images/rest-and-web-api.png)
+
+ https://gist.github.com/brookr/5977550
+ https://visionmedia.github.io/superagent/
