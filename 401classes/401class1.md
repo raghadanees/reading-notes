@@ -1,18 +1,26 @@
-# SMACSS and Responsive Web Design
+# Node Ecosystem, TDD, CI/CD
 
-### Responsive Web Design
-*Responsive web design is the practice of building a website suitable to work on every device and every screen size, no matter how large or small, mobile or desktop. Responsive web design is focused around providing an intuitive and gratifying experience for everyone. Desktop computer and cell phone users alike all benefit from responsive websites.*
 
-### What is “Float”?
-Float is a CSS positioning property. To understand its purpose and origin, we can look to print design. In a print layout, images may be set into the page such that text wraps around them as needed. This is commonly and appropriately called “text wrap”. Here is an example of that.
+### map and reduce 
+*The map() method creates a new array with the results of calling a function for every array element. calls the provided function once for each element in an array, in order. and this method does not change the original array.*
+*The reduce() method executes a reducer function (that you provide) on each element of the array, resulting in single output value. Your reducer function’s returned value is assigned to the accumulator, whose value is remembered across each iteration throughout the array, and ultimately becomes the final, single resulting value.*
 
-### What are floats used for?
+### What is Node.js?
+Node.js is an open source server environment and Node.js uses asynchronous programming!
 
-Aside from the simple example of wrapping text around images, floats can be used to create entire web layouts.
+it is run-time environment includes everything you need to execute a program written in JavaScript.
+Node.js came into existence when the original developers of JavaScript extended it from something you could only run in the browser to something you could run on your machine as a standalone application.
+### What is npm?
+npm is the world’s largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
 
-Floats are also helpful for layout in smaller instances. Take for example this little area of a web page. If we use float for our little avatar image, when that image changes size the text in the box will reflow to accommodate:
+### What are npm used for?
 
-![Image](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2014/10/float-layout.png)
+- Adapt packages of code for your apps, or incorporate packages as they are.
+- Download standalone tools you can use right away.
+- Run packages without downloading using npx.
+- Share code with any npm user, anywhere.
+- Restrict code to specific developers.
 
-*While floats can still be used for layout, these days, we have much stronger tools for creating layout on web pages. Namely, Flexbox and Grid. Floats are still useful to know about because they have some abilities entirely unique to them, which is all covered in this article.*
+![Image](https://www.hugeserver.com/kb/wp-content/uploads/2017/03/1_hj-_anuWthYZs0x22hE9lA-e1520240360455.png)
+
 
